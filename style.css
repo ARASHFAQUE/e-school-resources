@@ -11,6 +11,7 @@
     color: white;
     height: 43px;
     width: 130px;
+    
 }
 .button{
     border: none;
@@ -20,6 +21,7 @@
     height: 43px;
     width: 153px;
     transition: transform 0.3s;
+    
 }
 #carouselExampleSlidesOnly{
     margin-top: 70px;
@@ -31,7 +33,6 @@ h1{
 span{
     color: #21B573;
 }
-
 
 .second{
     width: 40px;
